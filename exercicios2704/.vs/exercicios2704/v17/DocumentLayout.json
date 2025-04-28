@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\exercicios2704\\exercicios2704\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|solutionrelative:exercicios2704\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\exercicios2704\\exercicios2704\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|solutionrelative:exercicios2704\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\exercicios2704\\exercicios2704\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|solutionrelative:exercicios2704\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\exercicios2704\\exercicios2704\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|solutionrelative:exercicios2704\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\exercicios2704\\exercicios2704\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|solutionrelative:exercicios2704\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\exercicios2704\\exercicios2704\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80F36AE-27E1-4635-A1D1-4EBFD2428D3E}|exercicios2704\\exercicios2704.csproj|solutionrelative:exercicios2704\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "exercicios2704\\FormaGeometrica.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\FormaGeometrica.cs",
+              "RelativeToolTip": "exercicios2704\\FormaGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:37:30.269Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Triangulo.cs",
+              "RelativeDocumentMoniker": "exercicios2704\\Triangulo.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Triangulo.cs",
+              "RelativeToolTip": "exercicios2704\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:38:20.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Circulo.cs",
+              "RelativeDocumentMoniker": "exercicios2704\\Circulo.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Circulo.cs",
+              "RelativeToolTip": "exercicios2704\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:38:11.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Retangulo.cs",
+              "RelativeDocumentMoniker": "exercicios2704\\Retangulo.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Retangulo.cs",
+              "RelativeToolTip": "exercicios2704\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:38:00.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Quadrado.cs",
+              "RelativeDocumentMoniker": "exercicios2704\\Quadrado.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Quadrado.cs",
+              "RelativeToolTip": "exercicios2704\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:37:50.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Program.cs",
+              "RelativeDocumentMoniker": "exercicios2704\\Program.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\exercicios2704\\exercicios2704\\Program.cs",
+              "RelativeToolTip": "exercicios2704\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:47:56.861Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

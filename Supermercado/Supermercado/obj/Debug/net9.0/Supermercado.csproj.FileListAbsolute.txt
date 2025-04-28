@@ -1,0 +1,15 @@
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\bin\Debug\net9.0\Supermercado.exe
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\bin\Debug\net9.0\Supermercado.deps.json
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\bin\Debug\net9.0\Supermercado.runtimeconfig.json
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\bin\Debug\net9.0\Supermercado.dll
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\bin\Debug\net9.0\Supermercado.pdb
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.AssemblyInfoInputs.cache
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.AssemblyInfo.cs
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.csproj.CoreCompileInputs.cache
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.sourcelink.json
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.dll
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\refint\Supermercado.dll
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.pdb
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\Supermercado.genruntimeconfig.cache
+F:\Senac\3° Semestre\POO\Supermercado\Supermercado\obj\Debug\net9.0\ref\Supermercado.dll

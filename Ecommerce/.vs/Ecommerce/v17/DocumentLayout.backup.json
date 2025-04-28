@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ecommerce\\ecommerce\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ecommerce\\ecommerce\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ecommerce\\ecommerce\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ecommerce\\ecommerce\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B806EB47-611D-4664-A9FA-079C1BACE2EE}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Produto.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Produto.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Produto.cs",
+              "RelativeToolTip": "Ecommerce\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:07:44.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Livro.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Livro.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Livro.cs",
+              "RelativeToolTip": "Ecommerce\\Livro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alimento.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Alimento.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Alimento.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Alimento.cs",
+              "RelativeToolTip": "Ecommerce\\Alimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Roupa.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Roupa.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Roupa.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ecommerce\\Ecommerce\\Roupa.cs",
+              "RelativeToolTip": "Ecommerce\\Roupa.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:23:52.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.AssemblyInfoInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.AssemblyInfo.cs
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.csproj.CoreCompileInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.sourcelink.json
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.exe
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.deps.json
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.runtimeconfig.json
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.dll
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.pdb
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.dll
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\refint\Ecommerce.dll
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.pdb
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.genruntimeconfig.cache
+F:\Senac\Estudos\3° Semestre\POO\Ecommerce\Ecommerce\obj\Debug\net9.0\ref\Ecommerce.dll

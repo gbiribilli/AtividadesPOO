@@ -1,0 +1,15 @@
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\bin\Debug\net9.0\exercicios2704.exe
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\bin\Debug\net9.0\exercicios2704.deps.json
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\bin\Debug\net9.0\exercicios2704.runtimeconfig.json
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\bin\Debug\net9.0\exercicios2704.dll
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\bin\Debug\net9.0\exercicios2704.pdb
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.AssemblyInfoInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.AssemblyInfo.cs
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.csproj.CoreCompileInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.sourcelink.json
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.dll
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\refint\exercicios2704.dll
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.pdb
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\exercicios2704.genruntimeconfig.cache
+F:\Senac\Estudos\3° Semestre\POO\exercicios2704\exercicios2704\obj\Debug\net9.0\ref\exercicios2704.dll

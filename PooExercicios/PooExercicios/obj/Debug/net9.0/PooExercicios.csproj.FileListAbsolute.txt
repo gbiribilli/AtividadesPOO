@@ -1,0 +1,15 @@
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\bin\Debug\net9.0\PooExercicios.exe
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\bin\Debug\net9.0\PooExercicios.deps.json
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\bin\Debug\net9.0\PooExercicios.runtimeconfig.json
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\bin\Debug\net9.0\PooExercicios.dll
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\bin\Debug\net9.0\PooExercicios.pdb
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.AssemblyInfoInputs.cache
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.AssemblyInfo.cs
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.csproj.CoreCompileInputs.cache
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.sourcelink.json
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.dll
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\refint\PooExercicios.dll
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.pdb
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\PooExercicios.genruntimeconfig.cache
+F:\Senac\3° Semestre\POO\PooExercicios\PooExercicios\obj\Debug\net9.0\ref\PooExercicios.dll

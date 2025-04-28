@@ -1,0 +1,15 @@
+F:\Senac\3° Semestre\POO\Construtores\Construtores\bin\Debug\net9.0\Construtores.exe
+F:\Senac\3° Semestre\POO\Construtores\Construtores\bin\Debug\net9.0\Construtores.deps.json
+F:\Senac\3° Semestre\POO\Construtores\Construtores\bin\Debug\net9.0\Construtores.runtimeconfig.json
+F:\Senac\3° Semestre\POO\Construtores\Construtores\bin\Debug\net9.0\Construtores.dll
+F:\Senac\3° Semestre\POO\Construtores\Construtores\bin\Debug\net9.0\Construtores.pdb
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.AssemblyInfoInputs.cache
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.AssemblyInfo.cs
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.csproj.CoreCompileInputs.cache
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.sourcelink.json
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.dll
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\refint\Construtores.dll
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.pdb
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\Construtores.genruntimeconfig.cache
+F:\Senac\3° Semestre\POO\Construtores\Construtores\obj\Debug\net9.0\ref\Construtores.dll

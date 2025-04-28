@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ifood\\ifood\\empresaifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|solutionrelative:ifood\\empresaifood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ifood\\ifood\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|solutionrelative:ifood\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ifood\\ifood\\pizzatower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|solutionrelative:ifood\\pizzatower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ifood\\ifood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|solutionrelative:ifood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\ifood\\ifood\\entregador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A934E-B2D0-4E21-8621-4B8623CB8D00}|Ifood\\Ifood.csproj|solutionrelative:ifood\\entregador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "empresaIfood.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\empresaIfood.cs",
+              "RelativeDocumentMoniker": "Ifood\\empresaIfood.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\empresaIfood.cs*",
+              "RelativeToolTip": "Ifood\\empresaIfood.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:29:54.034Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaTower.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\PizzaTower.cs",
+              "RelativeDocumentMoniker": "Ifood\\PizzaTower.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\PizzaTower.cs",
+              "RelativeToolTip": "Ifood\\PizzaTower.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:04:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\Cliente.cs",
+              "RelativeDocumentMoniker": "Ifood\\Cliente.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\Cliente.cs",
+              "RelativeToolTip": "Ifood\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:30:01.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entregador.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\Entregador.cs",
+              "RelativeDocumentMoniker": "Ifood\\Entregador.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\Entregador.cs",
+              "RelativeToolTip": "Ifood\\Entregador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:29:33.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\Program.cs",
+              "RelativeDocumentMoniker": "Ifood\\Program.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\Ifood\\Ifood\\Program.cs",
+              "RelativeToolTip": "Ifood\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:28:07.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

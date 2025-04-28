@@ -1,0 +1,15 @@
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.sourcelink.json
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+F:\Senac\3° Semestre\POO\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll

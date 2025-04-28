@@ -1,0 +1,15 @@
+F:\Senac\3° Semestre\POO\Carros\Carros\bin\Debug\net9.0\Carros.exe
+F:\Senac\3° Semestre\POO\Carros\Carros\bin\Debug\net9.0\Carros.deps.json
+F:\Senac\3° Semestre\POO\Carros\Carros\bin\Debug\net9.0\Carros.runtimeconfig.json
+F:\Senac\3° Semestre\POO\Carros\Carros\bin\Debug\net9.0\Carros.dll
+F:\Senac\3° Semestre\POO\Carros\Carros\bin\Debug\net9.0\Carros.pdb
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.AssemblyInfoInputs.cache
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.AssemblyInfo.cs
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.csproj.CoreCompileInputs.cache
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.sourcelink.json
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.dll
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\refint\Carros.dll
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.pdb
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\Carros.genruntimeconfig.cache
+F:\Senac\3° Semestre\POO\Carros\Carros\obj\Debug\net9.0\ref\Carros.dll

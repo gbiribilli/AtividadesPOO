@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\3\u00B0 Semestre\\POO\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB276A3-C8D0-4A13-8403-8BC9755D2EA3}|ConsoleApp2\\ConsoleApp2.csproj|f:\\senac\\3\u00B0 semestre\\poo\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB276A3-C8D0-4A13-8403-8BC9755D2EA3}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB276A3-C8D0-4A13-8403-8BC9755D2EA3}|ConsoleApp2\\ConsoleApp2.csproj|f:\\senac\\3\u00B0 semestre\\poo\\consoleapp2\\consoleapp2\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB276A3-C8D0-4A13-8403-8BC9755D2EA3}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB276A3-C8D0-4A13-8403-8BC9755D2EA3}|ConsoleApp2\\ConsoleApp2.csproj|f:\\senac\\3\u00B0 semestre\\poo\\consoleapp2\\consoleapp2\\usuarioelevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB276A3-C8D0-4A13-8403-8BC9755D2EA3}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\usuarioelevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioElevador.cs",
+              "DocumentMoniker": "F:\\Senac\\3\u00B0 Semestre\\POO\\ConsoleApp2\\ConsoleApp2\\UsuarioElevador.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\UsuarioElevador.cs",
+              "ToolTip": "F:\\Senac\\3\u00B0 Semestre\\POO\\ConsoleApp2\\ConsoleApp2\\UsuarioElevador.cs",
+              "RelativeToolTip": "ConsoleApp2\\UsuarioElevador.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:54:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elevador.cs",
+              "DocumentMoniker": "F:\\Senac\\3\u00B0 Semestre\\POO\\ConsoleApp2\\ConsoleApp2\\Elevador.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Elevador.cs",
+              "ToolTip": "F:\\Senac\\3\u00B0 Semestre\\POO\\ConsoleApp2\\ConsoleApp2\\Elevador.cs",
+              "RelativeToolTip": "ConsoleApp2\\Elevador.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:54:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\3\u00B0 Semestre\\POO\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "F:\\Senac\\3\u00B0 Semestre\\POO\\ConsoleApp2\\ConsoleApp2\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:00:13.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

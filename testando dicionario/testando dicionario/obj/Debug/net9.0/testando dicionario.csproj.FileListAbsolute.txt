@@ -1,0 +1,15 @@
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\bin\Debug\net9.0\testando dicionario.exe
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\bin\Debug\net9.0\testando dicionario.deps.json
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\bin\Debug\net9.0\testando dicionario.runtimeconfig.json
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\bin\Debug\net9.0\testando dicionario.dll
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\bin\Debug\net9.0\testando dicionario.pdb
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.AssemblyInfoInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.AssemblyInfo.cs
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.csproj.CoreCompileInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.sourcelink.json
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.dll
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\refint\testando dicionario.dll
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.pdb
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\testando dicionario.genruntimeconfig.cache
+F:\Senac\Estudos\3° Semestre\POO\testando dicionario\testando dicionario\obj\Debug\net9.0\ref\testando dicionario.dll
