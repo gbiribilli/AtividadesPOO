@@ -1,0 +1,15 @@
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\bin\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.exe
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\bin\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.deps.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\bin\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.runtimeconfig.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\bin\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\bin\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.AssemblyInfoInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.AssemblyInfo.cs
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.csproj.CoreCompileInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.sourcelink.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\refint\Estudando Sobrecarga e Classes Abstratas.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\Estudando Sobrecarga e Classes Abstratas.genruntimeconfig.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Estudando Sobrecarga e Classes Abstratas\Estudando Sobrecarga e Classes Abstratas\obj\Debug\net9.0\ref\Estudando Sobrecarga e Classes Abstratas.dll

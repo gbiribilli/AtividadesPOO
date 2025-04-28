@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\biblioteca\\biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\biblioteca\\biblioteca\\livroacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\livroacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\biblioteca\\biblioteca\\livroinfantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\livroinfantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\biblioteca\\biblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9532D79-DFAC-4B82-8266-E044A482E431}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "biblioteca.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\biblioteca.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\biblioteca.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\biblioteca.cs",
+              "RelativeToolTip": "Biblioteca\\biblioteca.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:56:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroAcademico.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\LivroAcademico.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\LivroAcademico.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\LivroAcademico.cs",
+              "RelativeToolTip": "Biblioteca\\LivroAcademico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:55:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroInfantil.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\LivroInfantil.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\LivroInfantil.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\LivroInfantil.cs",
+              "RelativeToolTip": "Biblioteca\\LivroInfantil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:53:20.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\Livro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Livro.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\Livro.cs",
+              "RelativeToolTip": "Biblioteca\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:49:44.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:47:15.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

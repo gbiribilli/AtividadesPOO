@@ -1,0 +1,15 @@
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.exe
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.deps.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.runtimeconfig.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfoInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfo.cs
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.sourcelink.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\refint\Biblioteca.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.genruntimeconfig.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Biblioteca\Biblioteca\obj\Debug\net9.0\ref\Biblioteca.dll
