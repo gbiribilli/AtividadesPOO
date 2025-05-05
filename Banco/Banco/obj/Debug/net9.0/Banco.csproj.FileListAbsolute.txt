@@ -1,0 +1,15 @@
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\bin\Debug\net9.0\Banco.exe
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\bin\Debug\net9.0\Banco.deps.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\bin\Debug\net9.0\Banco.runtimeconfig.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\bin\Debug\net9.0\Banco.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\bin\Debug\net9.0\Banco.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.AssemblyInfoInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.AssemblyInfo.cs
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.csproj.CoreCompileInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.sourcelink.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\refint\Banco.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\Banco.genruntimeconfig.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Banco\Banco\obj\Debug\net9.0\ref\Banco.dll

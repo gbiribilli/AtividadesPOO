@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\banco\\banco\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|solutionrelative:banco\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\banco\\banco\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|solutionrelative:banco\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|solutionrelative:banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\banco\\banco\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|solutionrelative:banco\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\banco\\banco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|solutionrelative:banco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\banco\\banco\\movimentacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28E1D51-331F-40EA-B72D-A5D622E186F4}|Banco\\Banco.csproj|solutionrelative:banco\\movimentacaoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Banco\\ContaCorrente.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaCorrente.cs",
+              "RelativeToolTip": "Banco\\ContaCorrente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:54:19.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Banco\\ContaPoupanca.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaPoupanca.cs",
+              "RelativeToolTip": "Banco\\ContaPoupanca.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:59:35.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaInvestimento.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaInvestimento.cs",
+              "RelativeDocumentMoniker": "Banco\\ContaInvestimento.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaInvestimento.cs*",
+              "RelativeToolTip": "Banco\\ContaInvestimento.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:01:04.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Banco\\Program.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\Program.cs",
+              "RelativeToolTip": "Banco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:42:54.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimentacaoConta.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\MovimentacaoConta.cs",
+              "RelativeDocumentMoniker": "Banco\\MovimentacaoConta.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\MovimentacaoConta.cs",
+              "RelativeToolTip": "Banco\\MovimentacaoConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:03:54.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Banco\\ContaBancaria.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Banco\\Banco\\ContaBancaria.cs",
+              "RelativeToolTip": "Banco\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:52:08.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

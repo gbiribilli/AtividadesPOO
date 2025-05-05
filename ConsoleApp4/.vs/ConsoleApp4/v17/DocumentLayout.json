@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\consoleapp4\\consoleapp4\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\consoleapp4\\consoleapp4\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\consoleapp4\\consoleapp4\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\consoleapp4\\consoleapp4\\desenho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\desenho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\consoleapp4\\consoleapp4\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474F46A1-0CE6-4CFB-AB43-148A3FBDD853}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\FiguraGeometrica.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\FiguraGeometrica.cs",
+              "RelativeToolTip": "ConsoleApp4\\FiguraGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:34:22.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Desenho.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Desenho.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Desenho.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Desenho.cs",
+              "RelativeToolTip": "ConsoleApp4\\Desenho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:49:48.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Triangulo.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Triangulo.cs",
+              "RelativeToolTip": "ConsoleApp4\\Triangulo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:47:32.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Quadrado.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Quadrado.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Quadrado.cs",
+              "RelativeToolTip": "ConsoleApp4\\Quadrado.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:45:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Circulo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Circulo.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Circulo.cs",
+              "RelativeToolTip": "ConsoleApp4\\Circulo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:43:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:44.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
