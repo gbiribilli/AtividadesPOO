@@ -1,0 +1,14 @@
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\bin\Debug\net8.0\comercio.exe
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\bin\Debug\net8.0\comercio.deps.json
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\bin\Debug\net8.0\comercio.runtimeconfig.json
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\bin\Debug\net8.0\comercio.dll
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\bin\Debug\net8.0\comercio.pdb
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\comercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\comercio.AssemblyInfoInputs.cache
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\comercio.AssemblyInfo.cs
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\comercio.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\comercio.dll
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\refint\comercio.dll
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\comercio.pdb
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\comercio.genruntimeconfig.cache
+C:\Users\guilherme.basilva1\source\repos\comercio\comercio\obj\Debug\net8.0\ref\comercio.dll
