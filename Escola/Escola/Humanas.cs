@@ -16,9 +16,15 @@ public class Humanas:Disciplina
             Boletim.Add(aluno, n);
         }
     }
+
+    public override void Matricular(Aluno aluno)
+    {
+        alunos.Add(aluno);
+    }
+
     public void ListarNotas()
     {
-        foreach (KeyValuePair<Aluno, int> na in Boletim)
+        foreach (var na in Boletim)
         {
             Console.WriteLine($"Nome:{na.Key} | Nota:{na.Value}");
         }

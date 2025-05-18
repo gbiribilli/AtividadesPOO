@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 public class Exatas : Disciplina
 {   
     Dictionary<Aluno,int> Boletim = new Dictionary<Aluno, int>();
-
+    private int media = 6;
     public override void Matricular(Aluno aluno)
     {
       alunos.Add(aluno);
@@ -21,5 +21,21 @@ public class Exatas : Disciplina
             Boletim.Add(aluno, n);
         }  
     }
+
+    public void ListarNotas()
+    {
+        foreach(var alunos in Boletim)
+        {   
+            if(alunos.Value >= media)
+            {
+                Console.WriteLine($"Nome: {alunos.Key.ToString()}| Nota:{alunos.Value}| APROVADO");
+            }
+            else
+            {
+                Console.WriteLine($"Nome: {alunos.Key}| Nota:{alunos.Value}| REPROVADO");
+            }
+        }
+    }
+    
 }
 
