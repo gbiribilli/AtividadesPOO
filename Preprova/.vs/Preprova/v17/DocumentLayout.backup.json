@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\preprova\\preprova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|solutionrelative:preprova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\preprova\\preprova\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|solutionrelative:preprova\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\preprova\\preprova\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|solutionrelative:preprova\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\preprova\\preprova\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|solutionrelative:preprova\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\preprova\\preprova\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|solutionrelative:preprova\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\preprova\\preprova\\eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396031-7C52-4951-9748-50C4565671BD}|Preprova\\Preprova.csproj|solutionrelative:preprova\\eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Program.cs",
+              "RelativeDocumentMoniker": "Preprova\\Program.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Program.cs*",
+              "RelativeToolTip": "Preprova\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:26:28.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loja.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Loja.cs",
+              "RelativeDocumentMoniker": "Preprova\\Loja.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Loja.cs",
+              "RelativeToolTip": "Preprova\\Loja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:27:30.368Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alimento.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Alimento.cs",
+              "RelativeDocumentMoniker": "Preprova\\Alimento.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Alimento.cs",
+              "RelativeToolTip": "Preprova\\Alimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:41:01.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roupa.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Roupa.cs",
+              "RelativeDocumentMoniker": "Preprova\\Roupa.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Roupa.cs",
+              "RelativeToolTip": "Preprova\\Roupa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:39:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eletronico.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Eletronico.cs",
+              "RelativeDocumentMoniker": "Preprova\\Eletronico.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Eletronico.cs",
+              "RelativeToolTip": "Preprova\\Eletronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:35:27.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Produto.cs",
+              "RelativeDocumentMoniker": "Preprova\\Produto.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Preprova\\Preprova\\Produto.cs",
+              "RelativeToolTip": "Preprova\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:28:35.363Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

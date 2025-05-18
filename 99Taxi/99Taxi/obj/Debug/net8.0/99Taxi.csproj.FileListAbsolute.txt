@@ -1,0 +1,15 @@
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/bin/Debug/net8.0/99Taxi
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/bin/Debug/net8.0/99Taxi.deps.json
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/bin/Debug/net8.0/99Taxi.runtimeconfig.json
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/bin/Debug/net8.0/99Taxi.dll
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/bin/Debug/net8.0/99Taxi.pdb
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.GeneratedMSBuildEditorConfig.editorconfig
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.AssemblyInfoInputs.cache
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.AssemblyInfo.cs
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.csproj.CoreCompileInputs.cache
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.sourcelink.json
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.dll
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/refint/99Taxi.dll
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.pdb
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/99Taxi.genruntimeconfig.cache
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/99Taxi/99Taxi/obj/Debug/net8.0/ref/99Taxi.dll

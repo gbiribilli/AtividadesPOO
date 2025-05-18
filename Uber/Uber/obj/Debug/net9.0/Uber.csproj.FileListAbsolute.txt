@@ -1,0 +1,15 @@
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\bin\Debug\net9.0\Uber.exe
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\bin\Debug\net9.0\Uber.deps.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\bin\Debug\net9.0\Uber.runtimeconfig.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\bin\Debug\net9.0\Uber.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\bin\Debug\net9.0\Uber.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.AssemblyInfoInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.AssemblyInfo.cs
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.csproj.CoreCompileInputs.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.sourcelink.json
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\refint\Uber.dll
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.pdb
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\Uber.genruntimeconfig.cache
+F:\Senac\Estudos\3° Semestre\POO\AtividadesPOO\Uber\Uber\obj\Debug\net9.0\ref\Uber.dll

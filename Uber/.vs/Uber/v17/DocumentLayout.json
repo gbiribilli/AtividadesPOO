@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\uber\\uber\\corrida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|solutionrelative:uber\\corrida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\uber\\uber\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|solutionrelative:uber\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\uber\\uber\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|solutionrelative:uber\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|f:\\senac\\estudos\\3\u00B0 semestre\\poo\\atividadespoo\\uber\\uber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C577D71-8736-44F7-8B21-C1274E5C7BDC}|Uber\\Uber.csproj|solutionrelative:uber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorista.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Motorista.cs",
+              "RelativeDocumentMoniker": "Uber\\Motorista.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Motorista.cs",
+              "RelativeToolTip": "Uber\\Motorista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:56:37.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Corrida.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Corrida.cs",
+              "RelativeDocumentMoniker": "Uber\\Corrida.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Corrida.cs",
+              "RelativeToolTip": "Uber\\Corrida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:49:08.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Uber\\Pessoa.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Pessoa.cs",
+              "RelativeToolTip": "Uber\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:46:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Program.cs",
+              "RelativeDocumentMoniker": "Uber\\Program.cs",
+              "ToolTip": "F:\\Senac\\Estudos\\3\u00B0 Semestre\\POO\\AtividadesPOO\\Uber\\Uber\\Program.cs",
+              "RelativeToolTip": "Uber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:41:57.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
