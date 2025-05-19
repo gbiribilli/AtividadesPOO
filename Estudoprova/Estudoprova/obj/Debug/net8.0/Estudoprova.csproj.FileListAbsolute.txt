@@ -1,0 +1,15 @@
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/bin/Debug/net8.0/Estudoprova
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/bin/Debug/net8.0/Estudoprova.deps.json
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/bin/Debug/net8.0/Estudoprova.runtimeconfig.json
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/bin/Debug/net8.0/Estudoprova.dll
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/bin/Debug/net8.0/Estudoprova.pdb
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.GeneratedMSBuildEditorConfig.editorconfig
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.AssemblyInfoInputs.cache
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.AssemblyInfo.cs
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.csproj.CoreCompileInputs.cache
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.sourcelink.json
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.dll
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/refint/Estudoprova.dll
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.pdb
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/Estudoprova.genruntimeconfig.cache
+/home/biri/Documents/Senac/Estudos/3° Semestre/POO/AtividadesPOO/Estudoprova/Estudoprova/obj/Debug/net8.0/ref/Estudoprova.dll
